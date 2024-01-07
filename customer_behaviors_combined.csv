@@ -1,0 +1,351 @@
+Customer ID,Age,Gender,City,Membership Type,Items Purchased,Total Spend,Item Purchased,Category,Date,Churn,Average Rating
+101,29,Female,New York,Gold,14,1120.2,Blouse,Clothing,20/11/2018,0,4.6
+102,34,Male,Los Angeles,Silver,11,780.5,Sweater,Clothing,22/11/2018,0,4.1
+103,43,Female,Chicago,Bronze,9,510.75,Jeans,Clothing,20/11/2018,1,3.4
+104,30,Male,San Francisco,Gold,19,1480.3,Sandals,Footwear,29/11/2018,0,4.7
+105,27,Male,Miami,Silver,13,720.4,Blouse,Clothing,21/11/2018,1,4
+106,37,Female,Houston,Bronze,8,440.8,Sneakers,Footwear,21/11/2018,0,3.1
+107,31,Female,New York,Gold,15,1150.6,Shirt,Clothing,25/11/2018,0,4.5
+108,35,Male,Los Angeles,Silver,12,800.9,Shorts,Clothing,29/11/2018,0,4.2
+109,41,Female,Chicago,Bronze,10,495.25,Coat,Outerwear,22/11/2018,1,3.6
+110,28,Male,San Francisco,Gold,21,1520.1,Handbag,Accessories,21/11/2018,0,4.8
+111,32,Male,Miami,Silver,11,690.3,Shoes,Footwear,21/11/2018,1,3.8
+112,36,Female,Houston,Bronze,7,470.5,Shorts,Clothing,23/11/2018,0,3.2
+113,30,Female,New York,Gold,16,1200.8,Coat,Outerwear,27/11/2018,0,4.3
+114,33,Male,Los Angeles,Silver,13,820.75,Dress,Clothing,23/11/2018,0,4.4
+115,42,Female,Chicago,Bronze,9,530.4,Coat,Outerwear,23/11/2018,1,3.5
+116,29,Male,San Francisco,Gold,18,1360.2,Skirt,Clothing,20/11/2018,0,4.9
+117,26,Male,Miami,Silver,12,700.6,Sunglasses,Accessories,28/11/2018,1,3.7
+118,38,Female,Houston,Bronze,8,450.9,Dress,Clothing,27/11/2018,0,3
+119,32,Female,New York,Gold,14,1170.3,Sweater,Clothing,23/11/2018,0,4.7
+120,34,Male,Los Angeles,Silver,11,790.2,Pants,Clothing,24/11/2018,0,4
+121,43,Female,Chicago,Bronze,10,505.75,Pants,Clothing,25/11/2018,1,3.3
+122,30,Male,San Francisco,Gold,20,1470.5,Pants,Clothing,22/11/2018,0,4.8
+123,27,Male,Miami,Silver,13,710.4,Pants,Clothing,29/11/2018,1,4.1
+124,37,Female,Houston,Bronze,7,430.8,Pants,Clothing,21/11/2018,0,3.4
+125,31,Female,New York,Gold,15,1140.6,Jacket,Outerwear,23/11/2018,0,4.6
+126,35,Male,Los Angeles,Silver,12,810.9,Hoodie,Clothing,23/11/2018,0,4.3
+127,41,Female,Chicago,Bronze,9,485.25,Jewelry,Accessories,29/11/2018,1,3.6
+128,28,Male,San Francisco,Gold,21,1500.1,Shorts,Clothing,21/11/2018,0,4.9
+129,32,Male,Miami,Silver,10,670.3,Handbag,Accessories,23/11/2018,1,3.8
+130,36,Female,Houston,Bronze,8,460.5,Dress,Clothing,20/11/2018,0,3.1
+131,30,Female,New York,Gold,16,1190.8,Jewelry,Accessories,27/11/2018,0,4.5
+132,33,Male,Los Angeles,Silver,13,830.75,Dress,Clothing,22/11/2018,0,4.2
+133,42,Female,Chicago,Bronze,9,520.4,Jacket,Outerwear,23/11/2018,1,3.5
+134,29,Male,San Francisco,Gold,18,1370.2,Pants,Clothing,25/11/2018,0,4.7
+135,26,Male,Miami,Silver,12,690.6,T-shirt,Clothing,26/11/2018,1,3.9
+136,38,Female,Houston,Bronze,8,440.9,Blouse,Clothing,28/11/2018,0,3.2
+137,32,Female,New York,Gold,14,1160.3,T-shirt,Clothing,25/11/2018,0,4.4
+138,34,Male,Los Angeles,Silver,11,800.2,Jeans,Clothing,25/11/2018,0,4.1
+139,43,Female,Chicago,Bronze,10,500.75,Dress,Clothing,27/11/2018,1,3.3
+140,30,Male,San Francisco,Gold,20,1460.5,Pants,Clothing,22/11/2018,0,4.8
+141,27,Male,Miami,Silver,13,700.4,Handbag,Accessories,21/11/2018,1,4
+142,37,Female,Houston,Bronze,7,420.8,Scarf,Accessories,21/11/2018,0,3.1
+143,31,Female,New York,Gold,15,1130.6,Coat,Outerwear,23/11/2018,0,4.5
+144,35,Male,Los Angeles,Silver,12,820.9,Scarf,Accessories,23/11/2018,0,4.3
+145,41,Female,Chicago,Bronze,9,480.25,Hat,Accessories,20/11/2018,1,3.6
+146,28,Male,San Francisco,Gold,21,1490.1,Socks,Clothing,29/11/2018,0,4.9
+147,32,Male,Miami,Silver,10,680.3,Shirt,Clothing,22/11/2018,1,3.8
+148,36,Female,Houston,Bronze,8,470.5,Jewelry,Accessories,21/11/2018,0,3
+149,30,Female,New York,Gold,16,1180.8,Shirt,Clothing,22/11/2018,0,4.7
+150,34,Male,Los Angeles,Silver,11,790.2,Hoodie,Clothing,23/11/2018,0,4
+151,43,Female,Chicago,Bronze,10,505.75,Blouse,Clothing,25/11/2018,1,3.3
+152,30,Male,San Francisco,Gold,20,1470.5,Skirt,Clothing,20/11/2018,0,4.8
+153,27,Male,Miami,Silver,13,710.4,T-shirt,Clothing,25/11/2018,1,4.1
+154,37,Female,Houston,Bronze,7,430.8,Skirt,Clothing,23/11/2018,0,3.4
+155,31,Female,New York,Gold,15,1140.6,Coat,Outerwear,23/11/2018,0,4.6
+156,35,Male,Los Angeles,Silver,12,810.9,Jacket,Outerwear,23/11/2018,0,4.3
+157,41,Female,Chicago,Bronze,9,485.25,Backpack,Accessories,23/11/2018,1,3.6
+158,28,Male,San Francisco,Gold,21,1500.1,Coat,Outerwear,23/11/2018,0,4.9
+159,32,Male,Miami,Silver,10,670.3,Hoodie,Clothing,21/11/2018,1,3.8
+160,36,Female,Houston,Bronze,8,460.5,Belt,Accessories,21/11/2018,0,3.1
+161,30,Female,New York,Gold,16,1190.8,Sweater,Clothing,21/11/2018,0,4.5
+162,33,Male,Los Angeles,Silver,13,830.75,Scarf,Accessories,23/11/2018,0,4.2
+163,42,Female,Chicago,Bronze,9,520.4,Sneakers,Footwear,22/11/2018,1,3.5
+164,29,Male,San Francisco,Gold,18,1370.2,Sunglasses,Accessories,24/11/2018,0,4.7
+165,26,Male,Miami,Silver,12,690.6,Boots,Footwear,29/11/2018,1,3.9
+166,38,Female,Houston,Bronze,8,440.9,Backpack,Accessories,23/11/2018,0,3.2
+167,32,Female,New York,Gold,14,1160.3,Blouse,Clothing,22/11/2018,0,4.4
+168,34,Male,Los Angeles,Silver,11,800.2,Coat,Outerwear,25/11/2018,0,4.1
+169,43,Female,Chicago,Bronze,10,500.75,Handbag,Accessories,23/11/2018,1,3.3
+170,30,Male,San Francisco,Gold,20,1460.5,Belt,Accessories,26/11/2018,0,4.8
+171,27,Male,Miami,Silver,13,700.4,Belt,Accessories,20/11/2018,1,4
+172,37,Female,Houston,Bronze,7,420.8,Dress,Clothing,23/11/2018,,3.1
+173,31,Female,New York,Gold,15,1130.6,Dress,Clothing,27/11/2018,0,4.5
+174,35,Male,Los Angeles,Silver,12,820.9,Pants,Clothing,29/11/2018,0,4.3
+175,41,Female,Chicago,Bronze,9,480.25,Gloves,Accessories,21/11/2018,1,3.6
+176,28,Male,San Francisco,Gold,21,1490.1,Scarf,Accessories,22/11/2018,0,4.9
+177,32,Male,Miami,Silver,10,680.3,Hat,Accessories,23/11/2018,1,3.8
+178,36,Female,Houston,Bronze,8,470.5,Dress,Clothing,25/11/2018,0,3
+179,30,Female,New York,Gold,16,1180.8,Skirt,Clothing,27/11/2018,0,4.7
+180,34,Male,Los Angeles,Silver,11,790.2,Jacket,Outerwear,26/11/2018,0,4
+181,43,Female,Chicago,Bronze,10,505.75,Sandals,Footwear,26/11/2018,1,3.3
+182,30,Male,San Francisco,Gold,20,1470.5,Shoes,Footwear,29/11/2018,0,4.8
+183,27,Male,Miami,Silver,13,710.4,Pants,Clothing,25/11/2018,1,4.1
+184,37,Female,Houston,Bronze,7,430.8,Dress,Clothing,20/11/2018,0,3.4
+185,31,Female,New York,Gold,15,1140.6,Coat,Outerwear,22/11/2018,0,4.6
+186,35,Male,Los Angeles,Silver,12,810.9,Sunglasses,Accessories,23/11/2018,0,4.3
+187,41,Female,Chicago,Bronze,9,485.25,Hoodie,Clothing,22/11/2018,1,3.6
+188,28,Male,San Francisco,Gold,21,1500.1,Shoes,Footwear,21/11/2018,0,4.9
+189,32,Male,Miami,Silver,10,670.3,T-shirt,Clothing,21/11/2018,1,3.8
+190,36,Female,Houston,Bronze,8,460.5,Jacket,Outerwear,23/11/2018,0,3.1
+191,30,Female,New York,Gold,16,1190.8,Hat,Accessories,25/11/2018,0,4.5
+192,33,Male,Los Angeles,Silver,13,830.75,Scarf,Accessories,26/11/2018,0,4.2
+193,42,Female,Chicago,Bronze,9,520.4,Jacket,Outerwear,25/11/2018,1,3.5
+194,29,Male,San Francisco,Gold,18,1370.2,Sweater,Clothing,22/11/2018,0,4.7
+195,26,Male,Miami,Silver,12,690.6,Skirt,Clothing,24/11/2018,1,3.9
+196,38,Female,Houston,Bronze,8,440.9,Sneakers,Footwear,26/11/2018,0,3.2
+197,32,Female,New York,Gold,14,1160.3,Gloves,Accessories,23/11/2018,0,4.4
+198,34,Male,Los Angeles,Silver,11,800.2,Shoes,Footwear,22/11/2018,0,4.1
+199,43,Female,Chicago,Bronze,10,500.75,Jeans,Clothing,22/11/2018,1,3.3
+200,30,Male,San Francisco,Gold,20,1460.5,Hoodie,Clothing,27/11/2018,0,4.8
+201,27,Male,Miami,Silver,13,700.4,Sunglasses,Accessories,21/11/2018,1,4
+202,37,Female,Houston,Bronze,7,420.8,Coat,Outerwear,22/11/2018,0,3.1
+203,31,Female,New York,Gold,15,1130.6,Socks,Clothing,21/11/2018,0,4.5
+204,35,Male,Los Angeles,Silver,12,820.9,Boots,Footwear,25/11/2018,0,4.3
+205,41,Female,Chicago,Bronze,9,480.25,Sunglasses,Accessories,26/11/2018,1,3.6
+206,28,Male,San Francisco,Gold,21,1490.1,Backpack,Accessories,23/11/2018,0,4.9
+207,32,Male,Miami,Silver,10,680.3,Jacket,Outerwear,24/11/2018,1,3.8
+208,36,Female,Houston,Bronze,8,470.5,Sneakers,Footwear,23/11/2018,0,3
+209,30,Female,New York,Gold,16,1180.8,Socks,Clothing,21/11/2018,0,4.7
+210,34,Male,Los Angeles,Silver,11,790.2,T-shirt,Clothing,21/11/2018,0,4
+211,43,Female,Chicago,Bronze,10,505.75,Backpack,Accessories,23/11/2018,1,3.3
+212,30,Male,San Francisco,Gold,20,1470.5,Belt,Accessories,20/11/2018,0,4.8
+213,27,Male,Miami,Silver,13,710.4,Gloves,Accessories,28/11/2018,1,4.1
+214,37,Female,Houston,Bronze,7,430.8,Hat,Accessories,22/11/2018,0,3.4
+215,31,Female,New York,Gold,15,1140.6,Coat,Outerwear,22/11/2018,0,4.6
+216,35,Male,Los Angeles,Silver,12,810.9,Skirt,Clothing,21/11/2018,0,4.3
+217,41,Female,Chicago,Bronze,9,485.25,Shoes,Footwear,22/11/2018,1,3.6
+218,28,Male,San Francisco,Gold,21,1500.1,Sandals,Footwear,21/11/2018,0,4.9
+219,32,Male,Miami,Silver,10,670.3,Sweater,Clothing,23/11/2018,1,3.8
+220,36,Female,Houston,Bronze,8,460.5,Coat,Outerwear,26/11/2018,0,3.1
+221,30,Female,New York,Gold,16,1190.8,Hat,Accessories,23/11/2018,0,4.5
+222,33,Male,Los Angeles,Silver,13,830.75,Shorts,Clothing,23/11/2018,0,4.2
+223,42,Female,Chicago,Bronze,9,520.4,Backpack,Accessories,25/11/2018,1,3.5
+224,29,Male,San Francisco,Gold,18,1370.2,Sweater,Clothing,28/11/2018,0,4.7
+225,26,Male,Miami,Silver,12,690.6,Sweater,Clothing,26/11/2018,1,3.9
+226,38,Female,Houston,Bronze,8,440.9,Shorts,Clothing,28/11/2018,0,3.2
+227,32,Female,New York,Gold,14,1160.3,Shorts,Clothing,20/11/2018,0,4.4
+228,34,Male,Los Angeles,Silver,11,800.2,Sweater,Clothing,28/11/2018,0,4.1
+229,43,Female,Chicago,Bronze,10,500.75,Scarf,Accessories,23/11/2018,1,3.3
+230,30,Male,San Francisco,Gold,20,1460.5,Dress,Clothing,28/11/2018,0,4.8
+231,27,Male,Miami,Silver,13,700.4,Scarf,Accessories,23/11/2018,1,4
+232,37,Female,Houston,Bronze,7,420.8,Skirt,Clothing,29/11/2018,0,3.1
+233,31,Female,New York,Gold,15,1130.6,Backpack,Accessories,25/11/2018,0,4.5
+234,35,Male,Los Angeles,Silver,12,820.9,Sweater,Clothing,27/11/2018,0,4.3
+235,41,Female,Chicago,Bronze,9,480.25,Hat,Accessories,20/11/2018,1,3.6
+236,28,Male,San Francisco,Gold,21,1490.1,Sandals,Footwear,20/11/2018,0,4.9
+237,32,Male,Miami,Silver,10,680.3,Blouse,Clothing,23/11/2018,1,3.8
+238,36,Female,Houston,Bronze,8,470.5,Sneakers,Footwear,23/11/2018,0,3
+239,30,Female,New York,Gold,16,1180.8,Skirt,Clothing,23/11/2018,0,4.7
+240,34,Male,Los Angeles,Silver,11,790.2,Coat,Outerwear,20/11/2018,0,4
+241,43,Female,Chicago,Bronze,10,505.75,Shirt,Clothing,23/11/2018,1,3.3
+242,30,Male,San Francisco,Gold,20,1470.5,Gloves,Accessories,29/11/2018,0,4.8
+243,27,Male,Miami,Silver,13,710.4,Jacket,Outerwear,20/11/2018,1,4.1
+244,37,Female,Houston,Bronze,7,430.8,Coat,Outerwear,28/11/2018,,3.4
+245,31,Female,New York,Gold,15,1130.6,Shoes,Footwear,23/11/2018,0,4.5
+246,35,Male,Los Angeles,Silver,12,820.9,Jewelry,Accessories,23/11/2018,0,4.3
+247,41,Female,Chicago,Bronze,9,480.25,Skirt,Clothing,29/11/2018,1,3.6
+248,28,Male,San Francisco,Gold,21,1490.1,Shoes,Footwear,29/11/2018,0,4.9
+249,32,Male,Miami,Silver,10,680.3,Gloves,Accessories,26/11/2018,1,3.8
+250,36,Female,Houston,Bronze,8,470.5,Pants,Clothing,23/11/2018,0,3
+251,30,Female,New York,Gold,16,1180.8,Boots,Footwear,23/11/2018,0,4.7
+252,34,Male,Los Angeles,Silver,11,790.2,Sunglasses,Accessories,23/11/2018,0,4
+253,43,Female,Chicago,Bronze,10,505.75,Shirt,Clothing,21/11/2018,1,3.3
+254,30,Male,San Francisco,Gold,20,1470.5,Hoodie,Clothing,23/11/2018,0,4.8
+255,27,Male,Miami,Silver,13,710.4,Dress,Clothing,21/11/2018,1,4.1
+256,37,Female,Houston,Bronze,7,430.8,Socks,Clothing,20/11/2018,0,3.4
+257,31,Female,New York,Gold,15,1140.6,Shorts,Clothing,23/11/2018,0,4.6
+258,35,Male,Los Angeles,Silver,12,810.9,Hat,Accessories,25/11/2018,0,4.3
+259,41,Female,Chicago,Bronze,9,485.25,Shirt,Clothing,27/11/2018,1,3.6
+260,28,Male,San Francisco,Gold,21,1500.1,Gloves,Accessories,25/11/2018,0,4.9
+261,32,Male,Miami,Silver,10,670.3,Gloves,Accessories,24/11/2018,1,3.8
+262,36,Female,Houston,Bronze,8,460.5,Backpack,Accessories,22/11/2018,0,3.1
+263,30,Female,New York,Gold,16,1190.8,Sunglasses,Accessories,29/11/2018,0,4.5
+264,33,Male,Los Angeles,Silver,13,830.75,Skirt,Clothing,26/11/2018,0,4.2
+265,42,Female,Chicago,Bronze,9,520.4,Handbag,Accessories,22/11/2018,1,3.5
+266,29,Male,San Francisco,Gold,18,1370.2,Handbag,Accessories,25/11/2018,0,4.7
+267,26,Male,Miami,Silver,12,690.6,Sneakers,Footwear,27/11/2018,1,3.9
+268,38,Female,Houston,Bronze,8,440.9,Gloves,Accessories,26/11/2018,0,3.2
+269,32,Female,New York,Gold,14,1160.3,Shoes,Footwear,20/11/2018,0,4.4
+270,34,Male,Los Angeles,Silver,11,800.2,Jacket,Outerwear,23/11/2018,0,4.1
+271,43,Female,Chicago,Bronze,10,500.75,Shirt,Clothing,23/11/2018,1,3.3
+272,30,Male,San Francisco,Gold,20,1460.5,Shorts,Clothing,28/11/2018,0,4.8
+273,27,Male,Miami,Silver,13,700.4,Jewelry,Accessories,28/11/2018,1,4
+274,37,Female,Houston,Bronze,7,430.8,Hat,Accessories,29/11/2018,0,3.4
+275,31,Female,New York,Gold,15,1140.6,Shoes,Footwear,28/11/2018,0,4.5
+276,35,Male,Los Angeles,Silver,12,820.9,Coat,Outerwear,23/11/2018,0,4.3
+277,41,Female,Chicago,Bronze,9,480.25,Backpack,Accessories,27/11/2018,1,3.6
+278,28,Male,San Francisco,Gold,21,1490.1,Hoodie,Clothing,20/11/2018,0,4.9
+279,32,Male,Miami,Silver,10,680.3,Skirt,Clothing,21/11/2018,1,3.8
+280,36,Female,Houston,Bronze,8,470.5,Boots,Footwear,26/11/2018,0,3
+281,30,Female,New York,Gold,16,1180.8,Sandals,Footwear,23/11/2018,0,4.7
+282,34,Male,Los Angeles,Silver,11,790.2,Pants,Clothing,29/11/2018,0,4
+283,43,Female,Chicago,Bronze,10,505.75,Gloves,Accessories,23/11/2018,1,3.3
+284,30,Male,San Francisco,Gold,20,1470.5,Skirt,Clothing,23/11/2018,0,4.8
+285,27,Male,Miami,Silver,13,710.4,Sneakers,Footwear,29/11/2018,1,4.1
+286,37,Female,Houston,Bronze,7,430.8,T-shirt,Clothing,23/11/2018,0,3.4
+287,31,Female,New York,Gold,15,1130.6,Backpack,Accessories,27/11/2018,0,4.5
+288,35,Male,Los Angeles,Silver,12,820.9,Shoes,Footwear,22/11/2018,0,4.3
+289,41,Female,Chicago,Bronze,9,485.25,Hoodie,Clothing,29/11/2018,1,3.6
+290,28,Male,San Francisco,Gold,21,1500.1,Blouse,Clothing,25/11/2018,0,4.9
+291,32,Male,Miami,Silver,10,670.3,Coat,Outerwear,28/11/2018,1,3.8
+292,36,Female,Houston,Bronze,8,460.5,Hat,Accessories,28/11/2018,0,3.1
+293,30,Female,New York,Gold,16,1190.8,Shoes,Footwear,22/11/2018,0,4.5
+294,33,Male,Los Angeles,Silver,13,830.75,Belt,Accessories,21/11/2018,0,4.2
+295,42,Female,Chicago,Bronze,9,520.4,Backpack,Accessories,27/11/2018,1,3.5
+296,29,Male,San Francisco,Gold,18,1370.2,Jacket,Outerwear,26/11/2018,0,4.7
+297,26,Male,Miami,Silver,12,690.6,Boots,Footwear,26/11/2018,1,3.9
+298,38,Female,Houston,Bronze,8,440.9,Scarf,Accessories,29/11/2018,0,3.2
+299,32,Female,New York,Gold,14,1160.3,Jewelry,Accessories,23/11/2018,0,4.4
+300,34,Male,Los Angeles,Silver,11,800.2,Hat,Accessories,26/11/2018,0,4.1
+301,36,Male,San Francisco,Gold,19,1420.8,Dress,Clothing,21/11/2018,0,4.6
+302,29,Female,Miami,Silver,14,730.4,Blouse,Clothing,23/11/2018,1,4
+303,35,Female,Houston,Bronze,7,450.6,Hat,Accessories,27/11/2018,0,3.3
+304,31,Male,New York,Gold,17,1210.6,Scarf,Accessories,25/11/2018,0,4.8
+305,27,Male,Los Angeles,Silver,11,780.9,Sneakers,Footwear,29/11/2018,0,4.2
+306,42,Female,Chicago,Bronze,10,495.25,Shirt,Clothing,27/11/2018,1,3.5
+307,29,Male,San Francisco,Gold,18,1390.2,T-shirt,Clothing,23/11/2018,0,4.7
+308,26,Male,Miami,Silver,12,670.6,Gloves,Accessories,23/11/2018,1,3.9
+309,38,Female,Houston,Bronze,8,460.9,Skirt,Clothing,22/11/2018,0,3.2
+310,32,Female,New York,Gold,14,1170.3,Sandals,Footwear,28/11/2018,0,4.5
+311,34,Male,Los Angeles,Silver,11,810.2,Jacket,Outerwear,26/11/2018,0,4
+312,43,Female,Chicago,Bronze,9,515.75,Skirt,Clothing,23/11/2018,1,3.3
+313,30,Male,San Francisco,Gold,20,1450.5,Handbag,Accessories,29/11/2018,0,4.8
+314,27,Male,Miami,Silver,13,690.4,Handbag,Accessories,21/11/2018,1,4.1
+315,37,Female,Houston,Bronze,7,420.8,Jacket,Outerwear,23/11/2018,0,3.4
+316,31,Female,New York,Gold,15,1130.6,Scarf,Accessories,20/11/2018,0,4.5
+317,35,Male,Los Angeles,Silver,12,820.9,Shorts,Clothing,29/11/2018,0,4.3
+318,41,Female,Chicago,Bronze,9,480.25,Sunglasses,Accessories,23/11/2018,1,3.6
+319,28,Male,San Francisco,Gold,21,1490.1,T-shirt,Clothing,29/11/2018,0,4.9
+320,32,Male,Miami,Silver,10,680.3,Belt,Accessories,28/11/2018,1,3.8
+321,36,Female,Houston,Bronze,8,470.5,Sneakers,Footwear,23/11/2018,0,3
+322,30,Female,New York,Gold,16,1180.8,Hat,Accessories,29/11/2018,0,4.7
+323,34,Male,Los Angeles,Silver,11,790.2,Gloves,Accessories,25/11/2018,0,4
+324,43,Female,Chicago,Bronze,10,505.75,Pants,Clothing,23/11/2018,1,3.3
+325,30,Male,San Francisco,Gold,20,1470.5,Socks,Clothing,22/11/2018,0,4.8
+326,27,Male,Miami,Silver,13,710.4,Jacket,Outerwear,23/11/2018,1,4.1
+327,37,Female,Houston,Bronze,7,430.8,Shoes,Footwear,21/11/2018,0,3.4
+328,31,Female,New York,Gold,15,1140.6,Jeans,Clothing,23/11/2018,0,4.5
+329,35,Male,Los Angeles,Silver,12,820.9,Socks,Clothing,23/11/2018,0,4.3
+330,41,Female,Chicago,Bronze,9,485.25,Sandals,Footwear,22/11/2018,1,3.6
+331,28,Male,San Francisco,Gold,21,1500.1,Scarf,Accessories,23/11/2018,0,4.9
+332,32,Male,Miami,Silver,10,670.3,Blouse,Clothing,26/11/2018,1,3.8
+333,36,Female,Houston,Bronze,8,460.5,Jewelry,Accessories,20/11/2018,0,3.1
+334,30,Female,New York,Gold,16,1190.8,Sweater,Clothing,21/11/2018,0,4.5
+335,33,Male,Los Angeles,Silver,13,830.75,Gloves,Accessories,21/11/2018,0,4.2
+336,42,Female,Chicago,Bronze,9,520.4,Sunglasses,Accessories,23/11/2018,1,3.5
+337,29,Male,San Francisco,Gold,18,1370.2,Coat,Outerwear,29/11/2018,0,4.7
+338,26,Male,Miami,Silver,12,690.6,Dress,Clothing,21/11/2018,1,3.9
+339,38,Female,Houston,Bronze,8,440.9,Skirt,Clothing,23/11/2018,0,3.2
+340,32,Female,New York,Gold,14,1160.3,Pants,Clothing,20/11/2018,0,4.4
+341,34,Male,Los Angeles,Silver,11,800.2,Sweater,Clothing,22/11/2018,0,4.1
+342,43,Female,Chicago,Bronze,9,525.75,Hoodie,Clothing,23/11/2018,1,3.3
+343,30,Male,San Francisco,Gold,20,1460.5,Coat,Outerwear,29/11/2018,0,4.8
+344,27,Male,Miami,Silver,13,720.4,Jewelry,Accessories,22/11/2018,1,4
+345,37,Female,Houston,Bronze,7,440.8,Belt,Accessories,23/11/2018,0,3.2
+346,31,Female,New York,Gold,15,1150.6,Sandals,Footwear,23/11/2018,0,4.5
+347,35,Male,Los Angeles,Silver,12,830.9,Sunglasses,Accessories,20/11/2018,0,4.3
+348,41,Female,Chicago,Bronze,9,490.25,Sweater,Clothing,23/11/2018,1,3.6
+349,28,Male,San Francisco,Gold,21,1480.1,Belt,Accessories,29/11/2018,0,4.9
+350,32,Male,Miami,Silver,10,690.3,Handbag,Accessories,23/11/2018,1,3.8
+351,36,Female,Houston,Bronze,8,480.5,Skirt,Clothing,25/11/2018,0,3.1
+352,30,Female,New York,Gold,16,1170.8,Handbag,Accessories,25/11/2018,0,4.7
+353,34,Male,Los Angeles,Silver,11,790.2,Shorts,Clothing,22/11/2018,0,4
+354,43,Female,Chicago,Bronze,10,510.75,Boots,Footwear,23/11/2018,1,3.3
+355,30,Male,San Francisco,Gold,19,1440.5,Sunglasses,Accessories,23/11/2018,0,4.6
+356,27,Male,Miami,Silver,13,700.4,Scarf,Accessories,23/11/2018,1,4.1
+357,37,Female,Houston,Bronze,7,410.8,Jewelry,Accessories,21/11/2018,0,3.4
+358,31,Female,New York,Gold,15,1160.6,Handbag,Accessories,23/11/2018,0,4.5
+359,35,Male,Los Angeles,Silver,12,810.9,Gloves,Accessories,21/11/2018,0,4.3
+360,41,Female,Chicago,Bronze,9,495.25,Jeans,Clothing,23/11/2018,1,3.6
+361,28,Male,San Francisco,Gold,21,1490.1,Hat,Accessories,20/11/2018,0,4.9
+362,32,Male,Miami,Silver,10,660.3,Jeans,Clothing,27/11/2018,1,3.8
+363,36,Female,Houston,Bronze,8,430.5,Pants,Clothing,20/11/2018,0,3.1
+364,30,Female,New York,Gold,16,1200.8,Shorts,Clothing,27/11/2018,0,4.7
+365,34,Male,Los Angeles,Silver,11,780.2,Pants,Clothing,23/11/2018,0,4.1
+366,43,Female,Chicago,Bronze,10,505.75,Backpack,Accessories,28/11/2018,1,3.3
+367,30,Male,San Francisco,Gold,20,1460.5,Jewelry,Accessories,22/11/2018,0,4.8
+368,27,Male,Miami,Silver,13,710.4,Sweater,Clothing,22/11/2018,1,4.1
+369,37,Female,Houston,Bronze,7,450.8,Shoes,Footwear,21/11/2018,0,3.4
+370,31,Female,New York,Gold,15,1140.6,Blouse,Clothing,26/11/2018,0,4.5
+371,35,Male,Los Angeles,Silver,12,800.9,Jeans,Clothing,21/11/2018,0,4.1
+372,41,Female,Chicago,Bronze,9,475.25,Sunglasses,Accessories,23/11/2018,1,3.6
+373,28,Male,San Francisco,Gold,21,1480.1,Jewelry,Accessories,22/11/2018,0,4.9
+374,32,Male,Miami,Silver,10,660.3,Coat,Outerwear,23/11/2018,1,3.8
+375,36,Female,Houston,Bronze,8,470.5,Jewelry,Accessories,23/11/2018,0,3
+376,30,Female,New York,Gold,16,1190.8,Backpack,Accessories,22/11/2018,0,4.5
+377,33,Male,Los Angeles,Silver,11,770.2,Skirt,Clothing,22/11/2018,0,4.2
+378,43,Female,Chicago,Bronze,10,515.75,Shirt,Clothing,25/11/2018,1,3.3
+379,30,Male,San Francisco,Gold,19,1450.5,Sweater,Clothing,23/11/2018,0,4.6
+380,27,Male,Miami,Silver,13,710.4,Sneakers,Footwear,27/11/2018,1,4.1
+381,37,Female,Houston,Bronze,7,430.8,Sandals,Footwear,23/11/2018,0,3.4
+382,31,Female,New York,Gold,15,1160.6,Belt,Accessories,23/11/2018,0,4.5
+383,35,Male,Los Angeles,Silver,12,820.9,Skirt,Clothing,29/11/2018,0,4.3
+384,41,Female,Chicago,Bronze,9,495.25,Sweater,Clothing,23/11/2018,1,3.6
+385,28,Male,San Francisco,Gold,21,1490.1,Skirt,Clothing,23/11/2018,0,4.9
+386,32,Male,Miami,Silver,10,660.3,Handbag,Accessories,26/11/2018,1,3.8
+387,36,Female,Houston,Bronze,8,440.5,Jewelry,Accessories,23/11/2018,0,3.1
+388,30,Female,New York,Gold,16,1200.8,Scarf,Accessories,28/11/2018,0,4.7
+389,34,Male,Los Angeles,Silver,11,780.2,T-shirt,Clothing,27/11/2018,0,4.1
+390,43,Female,Chicago,Bronze,10,505.75,Coat,Outerwear,23/11/2018,1,3.3
+391,30,Male,San Francisco,Gold,20,1460.5,T-shirt,Clothing,21/11/2018,0,4.8
+392,27,Male,Miami,Silver,13,710.4,Dress,Clothing,22/11/2018,1,4.1
+393,37,Female,Houston,Bronze,7,450.8,Shoes,Footwear,21/11/2018,0,3.4
+394,31,Female,New York,Gold,15,1140.6,Handbag,Accessories,23/11/2018,0,4.5
+395,35,Male,Los Angeles,Silver,12,800.9,Skirt,Clothing,23/11/2018,0,4.1
+396,41,Female,Chicago,Bronze,9,475.25,Sunglasses,Accessories,20/11/2018,1,3.6
+397,28,Male,San Francisco,Gold,21,1480.1,Sandals,Footwear,23/11/2018,0,4.9
+398,32,Male,Miami,Silver,10,660.3,Shoes,Footwear,23/11/2018,1,3.8
+399,36,Female,Houston,Bronze,8,470.5,T-shirt,Clothing,21/11/2018,0,3
+400,30,Female,New York,Gold,16,1190.8,Sneakers,Footwear,23/11/2018,0,4.5
+401,33,Male,Los Angeles,Silver,11,800.2,Hat,Accessories,28/11/2018,0,4.1
+402,43,Female,Chicago,Bronze,10,515.75,Skirt,Clothing,26/11/2018,1,3.3
+403,30,Male,San Francisco,Gold,19,1450.5,Sweater,Clothing,23/11/2018,0,4.6
+404,27,Male,Miami,Silver,13,710.4,Sandals,Footwear,22/11/2018,1,4.1
+405,37,Female,Houston,Bronze,7,430.8,Dress,Clothing,26/11/2018,0,3.4
+406,31,Female,New York,Gold,15,1160.6,Sweater,Clothing,28/11/2018,0,4.5
+407,35,Male,Los Angeles,Silver,12,820.9,Jacket,Outerwear,23/11/2018,0,4.3
+408,41,Female,Chicago,Bronze,9,495.25,Gloves,Accessories,25/11/2018,1,3.6
+409,28,Male,San Francisco,Gold,21,1490.1,Handbag,Accessories,29/11/2018,0,4.9
+410,32,Male,Miami,Silver,10,660.3,Dress,Clothing,26/11/2018,1,3.8
+411,36,Female,Houston,Bronze,8,440.5,Pants,Clothing,25/11/2018,0,3.1
+412,30,Female,New York,Gold,16,1200.8,Jeans,Clothing,25/11/2018,0,4.7
+413,34,Male,Los Angeles,Silver,11,780.2,Pants,Clothing,25/11/2018,0,4.1
+414,43,Female,Chicago,Bronze,10,505.75,Dress,Clothing,28/11/2018,1,3.3
+415,30,Male,San Francisco,Gold,20,1460.5,Pants,Clothing,21/11/2018,0,4.8
+416,27,Male,Miami,Silver,13,710.4,Jewelry,Accessories,29/11/2018,1,4.1
+417,37,Female,Houston,Bronze,7,450.8,Handbag,Accessories,20/11/2018,0,3.4
+418,31,Female,New York,Gold,15,1140.6,Sweater,Clothing,23/11/2018,0,4.5
+419,35,Male,Los Angeles,Silver,12,800.9,Backpack,Accessories,23/11/2018,0,4.1
+420,41,Female,Chicago,Bronze,9,475.25,Shorts,Clothing,20/11/2018,1,3.6
+421,28,Male,San Francisco,Gold,21,1480.1,Jewelry,Accessories,29/11/2018,0,4.9
+422,32,Male,Miami,Silver,10,660.3,Sneakers,Footwear,29/11/2018,1,3.8
+423,36,Female,Houston,Bronze,8,470.5,Belt,Accessories,21/11/2018,0,3
+424,30,Female,New York,Gold,16,1190.8,Hoodie,Clothing,23/11/2018,0,4.5
+425,34,Male,Los Angeles,Silver,11,780.2,Shirt,Clothing,27/11/2018,0,4.2
+426,43,Female,Chicago,Bronze,10,515.75,Pants,Clothing,20/11/2018,1,3.3
+427,30,Male,San Francisco,Gold,19,1450.5,Scarf,Accessories,27/11/2018,0,4.6
+428,27,Male,Miami,Silver,13,710.4,Coat,Outerwear,21/11/2018,1,4.1
+429,37,Female,Houston,Bronze,7,430.8,Coat,Outerwear,27/11/2018,0,3.4
+430,31,Female,New York,Gold,15,1160.6,Socks,Clothing,21/11/2018,0,4.5
+431,35,Male,Los Angeles,Silver,12,820.9,Sweater,Clothing,22/11/2018,0,4.3
+432,41,Female,Chicago,Bronze,9,495.25,Shirt,Clothing,24/11/2018,1,3.6
+433,28,Male,San Francisco,Gold,21,1490.1,Shirt,Clothing,26/11/2018,0,4.9
+434,32,Male,Miami,Silver,10,660.3,Sweater,Clothing,23/11/2018,1,3.8
+435,36,Female,Houston,Bronze,8,440.5,Blouse,Clothing,27/11/2018,0,3.1
+436,30,Female,New York,Gold,16,1200.8,Sweater,Clothing,21/11/2018,0,4.7
+437,34,Male,Los Angeles,Silver,11,780.2,Hat,Accessories,25/11/2018,0,4.1
+438,43,Female,Chicago,Bronze,10,505.75,Sweater,Clothing,29/11/2018,1,3.3
+439,30,Male,San Francisco,Gold,20,1460.5,Hoodie,Clothing,23/11/2018,0,4.8
+440,27,Male,Miami,Silver,13,710.4,Shorts,Clothing,28/11/2018,1,4.1
+441,37,Female,Houston,Bronze,7,450.8,Shorts,Clothing,29/11/2018,0,3.4
+442,31,Female,New York,Gold,15,1140.6,Hat,Accessories,23/11/2018,0,4.5
+443,35,Male,Los Angeles,Silver,12,800.9,Coat,Outerwear,26/11/2018,0,4.1
+444,41,Female,Chicago,Bronze,9,475.25,Sandals,Footwear,26/11/2018,1,3.6
+445,28,Male,San Francisco,Gold,21,1480.1,Skirt,Clothing,26/11/2018,0,4.9
+446,32,Male,Miami,Silver,10,660.3,Shoes,Footwear,23/11/2018,1,3.8
+447,36,Female,Houston,Bronze,8,470.5,Jeans,Clothing,28/11/2018,0,3
+448,30,Female,New York,Gold,16,1190.8,Sandals,Footwear,20/11/2018,0,4.5
+449,34,Male,Los Angeles,Silver,11,780.2,Blouse,Clothing,20/11/2018,0,4.2
+450,43,Female,Chicago,Bronze,10,515.75,Hat,Accessories,22/11/2018,1,3.3
